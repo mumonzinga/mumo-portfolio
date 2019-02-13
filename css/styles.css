@@ -28,7 +28,7 @@ body  {
 * {
   box-sizing: border-box;
 }
-.col-1 {width: 8.33%;}
+  .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
   .col-3 {width: 25%;}
   .col-4 {width: 33.33%;}
@@ -65,7 +65,7 @@ body  {
   color: black;
   text-shadow: 1px 1px 2px pink, 0 0 5px black, 0 0 25px pink;
   text-align: center;
-  font-size: 30px;
+  font-size: 35px;
 }
 .footer {
   background-color: purple;
@@ -76,7 +76,7 @@ body  {
 }
 .about {
 color: black;
-  font-size: 12px;
+  font-size: 3em;
 }
 .column {
     width: 350px;
@@ -84,4 +84,7 @@ color: black;
   }
 .test-box {
 
+}
+.em {
+  font-weight: bold;
 }
