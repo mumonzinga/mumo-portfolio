@@ -1,12 +1,12 @@
 # Mumo-Portfolio
 ===========
-[![Github Stars](https://github.com/mumonzinga/mumo-portfolio/stargazers)] [![Github Issues](https://github.com/mumonzinga/mumo-portfolio/issues)]
+![Github Stars](https://github.com/mumonzinga/mumo-portfolio/stargazers) [![Github Issues](https://github.com/mumonzinga/mumo-portfolio/issues)]
 #### My simple portfolio, 12/2/2019
 #### By **
 **[Mumo Nzinga](https://github.com/mumonzinga)**
 ## Description
 This is a website that hosts my portfolio.
-![website review](https://github.com/mumonzinga/images/blob/master/portfolio.png)
+![website review](https://github.com/mumonzinga/mumo-portfolio/blob/master/images/portfolio.png)
 ---
 ## Features
 -None
