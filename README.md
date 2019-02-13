@@ -8,6 +8,8 @@
 This is a website that hosts my portfolio.
 ![website review](https://github.com/mumonzinga/images/blob/master/img.png)
 ---
+## Features
+-
 ## Setup/Installation Requirements
 * a text-editor e.g. code, atom
 * internet to access my github repository.

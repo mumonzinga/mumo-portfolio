@@ -10,9 +10,17 @@ h2 {
 p {
     font-family: sans-serif;
     color: black;
+    font-size: 2em;
+
+}
+li {
+  font-size: 2em;
 }
 ul  {
   line-height: 40px;
+}
+img {
+  float: left;
 }
 body  {
   background-color: purple;
@@ -20,8 +28,18 @@ body  {
 * {
   box-sizing: border-box;
 }
-}
-
+.col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
 [class*="col-"] {
   float: left;
   padding: 15px;
@@ -30,4 +48,40 @@ body  {
   content: "";
   clear: both;
   display: table;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.pink-text-with-darkred-shadow {
+  color: pink;
+  text-shadow: 1px 1px 2px darkred, 0 0 25px black, 0 0 5px darkred;
+  text-align: center;
+  font-size: 70px;
+}
+.black-text-with-pink-shadow {
+  color: black;
+  text-shadow: 1px 1px 2px pink, 0 0 5px black, 0 0 25px pink;
+  text-align: center;
+  font-size: 30px;
+}
+.footer {
+  background-color: purple;
+  color: #darkred;
+  text-align: center;
+  font-size: 12px;
+  padding: 15px;
+}
+.about {
+color: black;
+  font-size: 12px;
+}
+.column {
+    width: 350px;
+    float: left;
+  }
+.test-box {
+
 }
