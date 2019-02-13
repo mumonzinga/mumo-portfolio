@@ -6,7 +6,7 @@
 **[Mumo Nzinga](https://github.com/mumonzinga)**
 ## Description
 This is a website that hosts my portfolio.
-![website review](https://github.com/mumonzinga/images/blob/master/img.png)
+![website review](https://github.com/mumonzinga/images/blob/master/portfolio.png)
 ---
 ## Features
 -None
